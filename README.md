@@ -10,21 +10,21 @@ Platform to facilitate students' access to MOOC courses.
 Predict individual probability of course dropout.
 Facilitate instructor intervention for students at risk of dropping out.
 ## Use case Diagram
-<Image>
+Image
 ## Class Diagram
-<image>
+image
 ## Activity Diagram for the case "Management of courses"
-<image>
+image
 ## Sequence diagram for the creation of a course
-<image>
+image
 ## Realisation
 ### Development Environment
 Visual Studio & Pycharm
 ### Programming Languages
 Python & Javascript
 ### Frameworks
-- Tensorflow 2.0
-- Bootstrap
-- Django
+Tensorflow 2.0
+Bootstrap
+Django
 ## Future work
 The possibility of a feature that allows teachers to automatically notify students who are about to drop out.
